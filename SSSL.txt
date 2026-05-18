@@ -2,41 +2,40 @@ SapphireSlash Software License v1.0
 
 Based on the Apache 1.1 and 2.0 Licenses.
 
-Copyright
+Copyright and Redistribution
 
-You are permitted to reproduce, prepare derivative works of,
-publicly display, publicly perform, sublicense, and distribute the
-work and such derivative works in source and/or object form.
+You are permitted to use the work in source and binary forms, with or without
+modification, so long as the conditions are met:
+
+1. Redistributions of the work must retain either this license or a compatible one.
+
+2. Redistributions in binary form must reproduce either this license or a compatible one in
+    the documentation and/or other materials provided with the
+    distribution.
+
+3. The end-user documentation included with the redistribution,
+    if any, must include the following acknowledgment:
+    "This product/project is licensed under the SapphireSlash License v.1.0."
+    Alternately, this acknowledgment may appear in the software itself,
+    if and wherever such third-party acknowledgments normally appear.
 
 Patent Rights
 
-You are permitted to patent the work to use, offer to sell, sell, import, and otherwise transfer it as long as you do not do the following:
+You are permitted to patent the work to use, offer to sell, sell, import, and otherwise transfer it; however, the patent license(s) would be terminated by the following paragraph:
 
-If you
-institute patent litigation against any entity (including a
+If you institute patent litigation against any entity (including a
 cross-claim or counterclaim in a lawsuit) alleging that the work
 or a contribution incorporated within the work constitutes direct
 or contributory patent infringement, then any patent licenses
 granted to you under this license for that work shall terminate
 as of the date such litigation is filed.
 
-Redistribution
+====================================================================
 
-You are permitted to use the work in source and binary forms, with or without
-modification, so long as the conditions are met:
-
- 1. Redistributions of the work must retain either this license or a compatible one.
-
- 2. Redistributions in binary form must reproduce either this license or a compatible one in
-    the documentation and/or other materials provided with the
-    distribution.
-
- 3. The end-user documentation included with the redistribution,
-    if any, must include the following acknowledgment:
-    "This product/project is licensed under the SapphireSlash License v.1.0."
-    Alternately, this acknowledgment may appear in the software itself,
-    if and wherever such third-party acknowledgments normally appear.
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the license is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+THIS SOFTWARE IS PROVIDED “AS IS” AND ANY EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL SAPPHIRESLASH BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
