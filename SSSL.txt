@@ -32,7 +32,7 @@ as of the date such litigation is filed.
 How to apply the SapphireSlash Software License.
 
 To apply, put this following notice into a NOTICE file.
-Make sure to put the year and name of the copyright holder(s) (Remove the brackets).
+Make sure to put the copyright year and name of the copyright holder(s) (Remove the brackets).
 
 ====================================================================
 
