@@ -1,7 +1,7 @@
 # SapphireSlash Licenses
 The repository if you want to contribute to my licenses.
 
-I allow my licenses to be modified, however you shall not call it a "SapphireSlash License".
+I allow my licenses to be modified, however if you call it a "SapphireSlash" license then you have to put somewhere in the license that the license is not official.
 
 Licenses Page: (https://sapphireslash.nekoweb.org/licenses)
 
