@@ -1,4 +1,4 @@
-SapphireSlash Software License v1.1
+SapphireSlash Software License v.1.1
 
 Based on the Apache 1.1 and 2.0 Licenses.
 
