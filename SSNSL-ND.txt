@@ -301,6 +301,10 @@ Section 8 -- Interpretation.
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
 
+====================================================================
+
+How to apply the SapphireSlash Non-Software No Derivatives License.
+
 To apply, put this following notice into a NOTICE file.
 Make sure to put the copyright year and name of the copyright holder(s) (Remove the brackets).
 
