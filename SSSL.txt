@@ -14,7 +14,7 @@ You are permitted to use the work in source and binary forms, with or without mo
 
 3. The end-user documentation included with the redistribution,
     if any, must include the following acknowledgment:
-    "This product/project is licensed under the SapphireSlash License v.1.0."
+    "This product/project is licensed under the SapphireSlash License v.1.1."
     Alternately, this acknowledgment may appear in the software itself,
     if and wherever such third-party acknowledgments normally appear.
 
